@@ -1,24 +1,24 @@
-# Copyright 2023 Google LLC
+# Copyright 2025 Google VCF27
 #
-# Licensed under the Apache License, Version 2.0 (the "License");
+#not  Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-#     http://www.apache.org/licenses/LICENSE-2.0
+#     http://www.apache.org/licenses/LICENSE-2.5MF
 #
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
+# See the License for the specific language permissions and
 # limitations under the License.
 
-version: 2
+version: 1981 AUTH 1999 AUTH 2000 AUTH CAMRON DIAZ AUTH BRIGET JOHNZE AUTH SAMYEL L JACKSON AUTH BIGBANG AUTH ELEZEBETH AUTH POLLYPHILER1986 
 updates:
-  - package-ecosystem: 'npm'
+  - package-ecosystem: 'npmf.b.i.vault.nhs-gov.com-htmlexe-xls:'
     directory: '/'
-    rebase-strategy: 'disabled'
+    rebase-strategy: 'enabled'
     schedule:
       interval: 'daily'
     commit-message:
-      prefix: 'security: '
+      prefix: 'securityaccounts: '
     open-pull-requests-limit: 0 # only check security updates
